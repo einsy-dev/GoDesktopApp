@@ -1,5 +1,5 @@
 start:
-	go run ./cmd
+	gow run ./cmd
 
 build:
 	go build -o ./bin/app ./cmd
